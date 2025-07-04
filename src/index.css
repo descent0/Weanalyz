@@ -1,0 +1,5 @@
+@import "tailwindcss";
+@import "@fontsource/roboto";
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
